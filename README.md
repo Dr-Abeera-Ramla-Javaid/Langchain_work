@@ -1,20 +1,5 @@
 # Langchain_work
 
-
-![Project Logo](path/to/your/logo.png)
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [User Stories](#user-stories)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 **LangGraph Worl** is an **Agentic AI Chatbot Prototype** designed to assist users in solving problems, remembering conversation contexts, and providing specific tools tailored to their needs. Built with a focus on enhancing user interaction and productivity, this chatbot leverages advanced natural language processing techniques to deliver personalized and efficient assistance.
