@@ -35,5 +35,5 @@ To set up and run **LangGraph Worl**, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/langgraph-worl.git
-cd langgraph-worl
+git clone https://github.com/Dr-Abeera-Ramla-Javaid/Langchain-worK.git
+cd langchain_work
